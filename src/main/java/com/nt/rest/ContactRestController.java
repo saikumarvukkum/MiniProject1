@@ -18,7 +18,7 @@ import com.nt.props.AppProperties;
 import com.nt.service.IContactService;
 
 @RestController
-@CrossOrigins
+@CrossOrigin
 public class ContactRestController {
       
 	  @Autowired
